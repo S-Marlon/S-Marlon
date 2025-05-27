@@ -1,48 +1,45 @@
 <h1 align="center">Olá! 👋 Me chamo Marlon Santos</h1>
 
- <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
-  </head>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Marlon&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Marlon&theme=chartreuse-dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Marlon&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-  <p align="center">
-    🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC de Bragança Paulista<br>
-    💻 Desenvolvedor em formação com foco em soluções web e backend<br>
-    🌱 Sempre em busca de novos aprendizados e experiências<br>
-    🚀 Aberto a oportunidades e colaborações na área de TI
-</p>
+
+
+  ## Um pouco sobre mim 
   
-  ##
+ >   🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC de Bragança Paulista<br>
+ >   💻 Desenvolvedor em formação com foco em soluções web e backend<br>
+ >   🌱 Sempre em busca de novos aprendizados e experiências<br>
+ >   🚀 Aberto a oportunidades e colaborações na área de TI
 
-  ### 🛠️ Tecnologias e Ferramentas
+  
 
-- 💡 Linguagens: `Java`, `JavaScript`, `Node.js`
+  ## 🛠️ Tecnologias e Ferramentas
+
+- 💡 Linguagens: `Java`, `JavaScript`, `Node.js`, `Python` , `C#`
 - 🧱 Frameworks: `Spring`, `Express.js`
-- 💾 Banco de Dados: `MySQL`, `PostgreSQL`
-- 🧰 Ferramentas: `Git`, `GitHub`, `VS Code`, `Postman`, `MySQL Workbench`
+- 💾 Banco de Dados: `MySQL`, `PostgreSQL`, `MongoDB`
+- 🧰 Ferramentas: `Git`, `GitHub`, `VS Code`, `Insomnia`, `MySQL Workbench`
 - ⚙️ Outros: `Instalação e manutenção de sistemas`, `Suporte técnico`
-
   
-  <div style="display: flex; justify-content: space-between; border:1px solid black; ">
-    <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <div align="center">
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Marlon&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"/>
+  </div>
+  
+  <div align="center">
+    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   </div>
 
-  ### 🌐 Projeto em Destaque – macpocos.com.br
+  ## 🌐 Projeto em Destaque – macpocos.com.br
 
 Desenvolvi o site da empresa **Mac Poços**, especializada em perfuração de poços artesianos e venda de equipamentos hidráulicos.  
 O projeto envolveu:
