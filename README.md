@@ -19,9 +19,9 @@
   ## 🛠️ Tecnologias e Ferramentas
 
 - 💡 Linguagens: `Java`, `JavaScript`, `Node.js`, `Python` , `C#`
-- 🧱 Frameworks: `Spring`, `Express.js`
+- 🧱 Frameworks: `Spring`, `Express.js`, `Panda`
 - 💾 Banco de Dados: `MySQL`, `PostgreSQL`, `MongoDB`
-- 🧰 Ferramentas: `Git`, `GitHub`, `VS Code`, `Insomnia`, `MySQL Workbench`
+- 🧰 Ferramentas: `Git`, `GitHub`,`Visual Studio`, `VS Code`, `Insomnia`, `MySQL Workbench`
 - ⚙️ Outros: `Instalação e manutenção de sistemas`, `Suporte técnico`
   
   <div align="center">
