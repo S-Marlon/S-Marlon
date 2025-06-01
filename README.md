@@ -19,7 +19,7 @@
   ## 🛠️ Tecnologias e Ferramentas
 
 - 💡 Linguagens: `Java`, `JavaScript`, `Node.js`, `Python` , `C#`
-- 🧱 Frameworks: `Spring`, `Express.js`, `Panda`
+- 🧱 Frameworks: `Spring`, `Express.js`, `Pandas`
 - 💾 Banco de Dados: `MySQL`, `PostgreSQL`, `MongoDB`
 - 🧰 Ferramentas: `Git`, `GitHub`,`Visual Studio`, `VS Code`, `Insomnia`, `MySQL Workbench`
 - ⚙️ Outros: `Instalação e manutenção de sistemas`, `Suporte técnico`
@@ -29,14 +29,21 @@
   </div>
   
   <div align="center">
-    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <!--    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />-->
     <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
+    <img width="60" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+<!--     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> -->
+<!--     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> -->
+<!--     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
+<!--     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
+<!--     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" /> -->
+<!--     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
+<!--     <img width="50" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" /> -->
   </div>
 
   ## 🌐 Projeto em Destaque – macpocos.com.br
