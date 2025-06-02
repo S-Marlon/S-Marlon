@@ -64,5 +64,6 @@ O projeto envolveu:
 - 🔗 [LinkedIn](https://linkedin.com/in/marlon---santos)
 
 ---
-
-⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato 😄
+<div align="center">
+⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato ⭐
+</div>
