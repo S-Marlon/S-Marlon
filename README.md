@@ -20,12 +20,12 @@
 
 - 💡 Linguagens: `Java`, `JavaScript`, `Node.js`, `Python` , `C#`
 - 🧱 Frameworks: `Spring`, `Express.js`, `Pandas`, `Flask`, `.net`, `Wordpress`
-- 💾 Banco de Dados: `MySQL`, `PostgreSQL`, `MongoDB`
+- 💾 Banco de Dados: `MySQL`, `PostgreSQL`, `Sqlite`
 - 🧰 Ferramentas: `Git`, `GitHub`,`Visual Studio`, `VS Code`, `Insomnia`, `MySQL Workbench`
 - ⚙️ Outros: `Instalação e manutenção de sistemas`, `Suporte técnico`
   
   <div align="center">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Marlon&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"/>
+  <img  width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Marlon&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact"/>
   </div>
   
   <div align="center">
