@@ -1,10 +1,15 @@
-<h1 align="center">Olá! 👋 Me chamo Marlon Santos</h1>
+<h1 align="center" style="itens-justify:center;">🐈‍⬛ Olá! Seja Bem-Vindo! 💻 </h1>
+<!--
+<div>
+<img src="https://media.tenor.com/u56nhKZD24AAAAAi/catkiss-cat.gif"/>
+<img src="https://media.tenor.com/g485TTq4thoAAAAi/cat-cat-dance.gif"/>
+</div>-->
+
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=S-Marlon&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Marlon&theme=chartreuse-dark&hide_border=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=S-Marlon&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Marlon&theme=chartreuse-dark&hide_border=true"/>
 </div>
-
 
 
   ## Um pouco sobre mim 
@@ -13,8 +18,9 @@
  >   💻 Desenvolvedor em formação com foco em soluções web e backend<br>
  >   🌱 Sempre em busca de novos aprendizados e experiências<br>
  >   🚀 Aberto a oportunidades e colaborações na área de TI
+>
 
-  
+
 
   ## 🛠️ Tecnologias e Ferramentas
 
@@ -66,5 +72,7 @@ O projeto envolveu:
 
 ---
 <div align="center">
+  
 ⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato ⭐
+  
 </div>
